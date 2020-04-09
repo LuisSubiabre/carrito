@@ -1,0 +1,36 @@
+{
+    "productList": [
+        {
+            "id": "0",
+            "title": "Water Jetty Ocean",
+            "img": "https://cdn.pixabay.com/photo/2018/05/06/14/00/water-3378639_640.jpg",
+            "description": "Awesome photography from blue ocean in New Zealand",
+            "price": "5.000",
+            "stock": "4"
+        },
+        {
+            "id": "1",
+            "title": "Landscape sunbeams", 
+            "img": "https://cdn.pixabay.com/photo/2017/03/28/18/53/landscape-2183029_640.jpg",
+            "description": "Mist in ocean with sunbeam rays" ,
+            "price": "8.000",
+            "stock": "5"
+        },
+        {
+            "id": "2",
+            "title":"New Zealand path trail",
+            "img":"https://cdn.pixabay.com/photo/2014/12/29/18/44/new-zealand-583174_640.jpg", 
+            "description":"South of New Zealand",
+            "price":"3.000",
+            "stock": "6"
+        },
+        {
+            "id": "3",
+            "title":"Milky Way", 
+            "img":"https://cdn.pixabay.com/photo/2019/02/19/08/43/milky-way-4006343_640.jpg", 
+            "description":"The Milky Way over foreign man", 
+            "price":"15.000",
+            "stock": "7"
+        }
+    ]
+}
